@@ -43,3 +43,4 @@ gradle-app.setting
 gradle/
 src/main/resources/
 src/test/
+build/
