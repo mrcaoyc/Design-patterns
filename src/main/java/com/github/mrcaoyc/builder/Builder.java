@@ -12,5 +12,5 @@ public interface Builder {
 
     Builder buildCpu();
 
-    Compute buildCompute();
+    Compute getCompute();
 }

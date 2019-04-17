@@ -27,7 +27,7 @@ public class Compute2Builder implements Builder {
     }
 
     @Override
-    public Compute buildCompute() {
+    public Compute getCompute() {
         return compute;
     }
 }

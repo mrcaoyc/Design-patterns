@@ -12,6 +12,6 @@ public class Director {
                 .buildCpu()
                 .buildHardDisk();
         // 生产出具体的产品
-        return builder.buildCompute();
+        return builder.getCompute();
     }
 }
